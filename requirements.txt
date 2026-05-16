@@ -1,0 +1,5 @@
+requests
+zstandard
+google-genai
+pefile
+capstone
